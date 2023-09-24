@@ -1,0 +1,10 @@
+.add_task_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  padding: 5px 21px;
+  background-color: #4f4f4f;
+  color: white;
+  cursor: pointer;
+}
